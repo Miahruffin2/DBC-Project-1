@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "//github.com/Miahruffin2/DBC-Project-1/static/css/main.54bbe571.css",
+    "main.js": "//github.com/Miahruffin2/DBC-Project-1/static/js/main.b58f71f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "//github.com/Miahruffin2/DBC-Project-1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/background.png": "//github.com/Miahruffin2/DBC-Project-1/static/media/background.1a0e389930e7bb0e414b.png",
+    "static/media/logo.png": "//github.com/Miahruffin2/DBC-Project-1/static/media/logo.f9b406bfb1e410cc6863.png",
+    "index.html": "//github.com/Miahruffin2/DBC-Project-1/index.html",
+    "main.54bbe571.css.map": "//github.com/Miahruffin2/DBC-Project-1/static/css/main.54bbe571.css.map",
+    "main.b58f71f2.js.map": "//github.com/Miahruffin2/DBC-Project-1/static/js/main.b58f71f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "//github.com/Miahruffin2/DBC-Project-1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54bbe571.css",
+    "static/js/main.b58f71f2.js"
+  ]
+}
